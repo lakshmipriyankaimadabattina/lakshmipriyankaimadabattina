@@ -22,7 +22,7 @@
 - Collaborating on various projects as an Open - Source Contributor/Mentor :rocket:
 - Desire to develop new possibilities in the field of **_Product Management_** and **_Machine Learning_** 💻
 - Ask me about anything, I am happy to help, if that is the secret recipe of my favourite dish.⚡️
-- Fun-Fact: Loves **_doodling_**, **_writing stories_** & above all, **_memes_** :sparkling_heart:
+- Fun-Fact: Loves **_drawing_**, **_reading stories_** & above all, **_crafting_** :sparkling_heart:
 
 <hr>
 
@@ -48,8 +48,8 @@
 
 <p align="center">
 <!---<i><b><h2> GitHub Stats...📈  </b></i></h2>--->
-<img src="https://github-readme-stats.vercel.app/api?username=saloniankita&count_private=true&show_icons=true&theme=radical" alt="GitHub Status" width="450px">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=saloniankita&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages" width="380px">
+<img src="https://github-readme-stats.vercel.app/api?username=lakshmipriyanka&count_private=true&show_icons=true&theme=radical" alt="GitHub Status" width="450px">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmipriyanka&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages" width="380px">
 </p>
 
 </details>
@@ -60,18 +60,17 @@
 
 # Connect with me <img src="https://media.giphy.com/media/xT9DPIlGnuHpr2yObu/giphy.gif" height="50px">
 
-[<img align="left" alt="Ankita's_website" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />](https://saloniankita.github.io/)
 
-[<img align="left" alt="Ankita_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/lakshmi-priyanka-imadabattina-46219a217)
+[<img align="left" alt="priyanka_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/lakshmi-priyanka-imadabattina-46219a217)
 
 <a href="https://twitter.com/Priyank80427845?s=08">
-  <img align="left" alt="Ankita Saloni | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Lakshmi priyanka | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-[<img align="left" alt="AnkitaSaloni | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />](https://www.instagram.com/_priyanka_il)
+[<img align="left" alt="lakshmipriyanka | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />](https://www.instagram.com/_priyanka_il)
 
-<a href="https://t.me/saloniankita">
+<a href="https://t.me/Lakshmi_priyanka_imadabattina">
   <img align="left" alt="Ankita's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=saloniankita&repo=saloniankita&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=saloniankita&repo=lakshmipriyanka&countColorcountColor&countColor=%237B1E7B"/>
