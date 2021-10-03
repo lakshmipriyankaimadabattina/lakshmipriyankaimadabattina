@@ -16,7 +16,7 @@
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about me:_**
 
-- Currently learning **_MEAN stack_** :smiley:
+- Currently learning **_Machine learning_** :smiley:
 - Working on imroving my **_Competitive Programming skills..._**
 - Looking forward to work on Back-end projects &nbsp;! :sparkles:
 - Collaborating on various projects as an Open - Source Contributor/Mentor :rocket:
