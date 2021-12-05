@@ -60,7 +60,7 @@
 
 # Connect with me <img src="https://media.giphy.com/media/xT9DPIlGnuHpr2yObu/giphy.gif" height="50px">
 
-
+<a href="https://www.linkedin.com/in/lakshmi-priyanka-imadabattina-46219a217">
 [<img align="left" alt="priyanka_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/lakshmi-priyanka-imadabattina-46219a217)
 
 <a href="https://twitter.com/Priyank80427845?s=08">
