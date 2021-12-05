@@ -62,6 +62,7 @@
 
 <a href="https://www.linkedin.com/in/lakshmi-priyanka-imadabattina-46219a217">
 [<img align="left" alt="priyanka_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/lakshmi-priyanka-imadabattina-46219a217)
+  </a>
 
 <a href="https://twitter.com/Priyank80427845?s=08">
   <img align="left" alt="Lakshmi priyanka | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
