@@ -70,7 +70,7 @@
 [<img align="left" alt="lakshmipriyanka | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />](https://www.instagram.com/_priyanka_il)
 
 <a href="https://t.me/Lakshmi_priyanka_imadabattina">
-  <img align="left" alt="Ankita's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="priyanka's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=saloniankita&repo=lakshmipriyanka&countColorcountColor&countColor=%237B1E7B"/>
