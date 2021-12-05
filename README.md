@@ -67,8 +67,9 @@
 <a href="https://twitter.com/Priyank80427845?s=08">
   <img align="left" alt="Lakshmi priyanka | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
-[<img align="left" alt="lakshmipriyanka | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />](https://www.instagram.com/_priyanka_il)
+<a href="https://www.instagram.com/_priyanka_il">
+<img align="left" alt="lakshmipriyanka | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />
+  </a>
 
 <a href="https://t.me/Lakshmi_priyanka_imadabattina">
   <img align="left" alt="priyanka's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
